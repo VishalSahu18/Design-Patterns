@@ -1,4 +1,4 @@
-**Liskov Substitution Principle (LSP)**
+# Liskov Substitution Principle (LSP)
 
 **Definition:**
 
