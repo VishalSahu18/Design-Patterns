@@ -1,4 +1,4 @@
-**Interface Segregation Principle (ISP)**
+# Interface Segregation Principle (ISP)
 
 **Definition:**
 
