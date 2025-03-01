@@ -1,4 +1,4 @@
-# Single Responsibility Principle (SRP)
+# Open/Closed Principle (OCP)
 
 **Definition:**
 
